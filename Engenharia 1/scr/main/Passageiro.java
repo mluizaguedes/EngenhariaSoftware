@@ -1,4 +1,4 @@
-package main;
+package diagrama;
 
 public class Passageiro {
     protected String nome;
