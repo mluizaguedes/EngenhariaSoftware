@@ -1,4 +1,4 @@
-package main;
+package diagrama;
 
 public class Viajem extends Voo{
     public String companhia;
