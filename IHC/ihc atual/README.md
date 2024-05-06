@@ -3,6 +3,10 @@
 ### 1: Visibility of System Status
 O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período de tempo razoável.
 
+![spotify](https://github.com/mluizaguedes/bertoti/assets/126245983/c8dbdbd4-ff41-40be-b9ad-f612b6dd624f)
+
+<em>Spotify retorna mensagem sobre a ação executada</em>
+
 ### 2: Match Between the System and the Real World
 "O design deve falar a língua dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica."
 
