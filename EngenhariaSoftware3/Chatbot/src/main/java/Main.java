@@ -1,4 +1,4 @@
-/* 
+
 import org.telegram.telegrambots.longpolling.TelegramBotsLongPollingApplication;
 
 
@@ -13,4 +13,4 @@ public class Main {
             e.printStackTrace();
         }
     }
-} */
+}
