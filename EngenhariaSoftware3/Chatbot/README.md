@@ -1,12 +1,23 @@
-## Chatbot com Padrão Observer
+## Chatbot Telegram em Java
 
-Chatbot simples em Java utilizando o padrão de projeto Observer. O chatbot é configurado com diferentes "observadores" (módulos de resposta) que reagem a mensagens específicas, como saudações, perguntas sobre o horário, e outras interações genéricas.
+Este projeto implementa um chatbot para Telegram utilizando a API oficial de bots. O bot responde automaticamente às mensagens enviadas pelos usuários.
+
+### Pré-requisitos
+Antes de rodar o projeto, certifique-se de que você tem os seguintes itens instalados:
+
+1. Java Development Kit (JDK) 8 ou superior.
+2. Apache Maven para gerenciar as dependências.
+3. Uma conta no Telegram e um Bot Token gerado via BotFather.
 
 ### Como Rodar o Projeto
 
 1. **Clone o repositório** ou faça o download dos arquivos.
 
-2. **Compile o código**. Abra o terminal e execute o comando para compilar todos os arquivos:
+2. **Configure o Token do Bot**.
+   - Abra o arquivo MyAmazingBot.java
+   - Coloque o seu token fornecido pelo BotFather
+     
+4. **Compile o projeto**. Use o Maven para compilar o código:
    ```bash
    cd EngenhariaSoftware3
    ```
@@ -14,15 +25,15 @@ Chatbot simples em Java utilizando o padrão de projeto Observer. O chatbot é c
    cd Chatbot
    ```
    ```bash
-   cd src
-   ```
-   ```bash
-   javac *.java
+   mvn clean compile
    ```
 
-3. Execute o programa. Após a compilação, rode a classe Main para iniciar o chatbot:
+5. **Execute o Bot**.
    ```bash
-   java Main
+   mvn exec:java
    ```
+
+6. **Teste o Bot**.
+   - Abra o Telegram e procure pelo bot pelo nome de usuário que você definiu no BotFather.
+   - Envie mensagens para o bot e veja as respostas automáticas.
    
-Quando o programa é executado, ele simula a interação com o chatbot através de mensagens pré-definidas.
