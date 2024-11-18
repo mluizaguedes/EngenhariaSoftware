@@ -2,13 +2,6 @@
 #### Diagrama UML
 ![image](https://github.com/user-attachments/assets/34bda761-f763-4625-8c2a-c993363eb2ae)
 
-### Código
-### Pré-requisitos
-
-- [Java Development Kit (JDK) 17+](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [Visual Studio Code](https://code.visualstudio.com/)
-  - Instale o [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) para suporte Java no VS Code
-
 ### Como Executar o Projeto
 
 1. **Clone o repositório** ou baixe os arquivos em uma pasta no seu computador.
