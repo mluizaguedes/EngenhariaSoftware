@@ -14,7 +14,7 @@ Antes de rodar o projeto, certifique-se de que você tem os seguintes itens inst
 1. **Clone o repositório** ou faça o download dos arquivos.
 
 2. **Configure o Token do Bot**.
-   - Abra o arquivo MyAmazingBot.java
+   - Abra o arquivo Main.java
    - Coloque o seu token fornecido pelo BotFather
      
 4. **Compile o projeto**. Use o Maven para compilar o código:

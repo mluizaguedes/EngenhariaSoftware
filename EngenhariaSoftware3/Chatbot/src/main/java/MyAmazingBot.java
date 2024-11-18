@@ -15,7 +15,7 @@ public class MyAmazingBot implements LongPollingSingleThreadUpdateConsumer {
 
     public MyAmazingBot(String botToken) {
         telegramClient = new OkHttpTelegramClient(botToken);
-        registerHandlers(); // Registrar comandos ao inicializar o bot
+        registerHandlers(); 
     }
 
     @Override
@@ -24,7 +24,6 @@ public class MyAmazingBot implements LongPollingSingleThreadUpdateConsumer {
             String messageText = update.getMessage().getText();
             long chatId = update.getMessage().getChatId();
 
-            // Tentar encontrar um comando registrado para o texto da mensagem
             commandHandlers.getOrDefault(messageText, this::defaultHandler).accept(chatId);
         }
     }
