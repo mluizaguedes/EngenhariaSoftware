@@ -1,6 +1,6 @@
 Repositório destinado à entrega das atividades de Engenharia de Software I e Interação Humano Computador
 
-## 📂 Engenharia de Software I
+## 📂 Engenharia de Software 1
 
 ### Atividade 1
 A atividade 1 teve como objetivo diferenciar programação e engenharia de software, focando nos aspectos de tempo, escala e tomadas de decisão estratégicas. 
@@ -15,6 +15,19 @@ O objetivo desta atividade é compreender e aplicar as 10 heurísticas de usabil
 
 ### 📁 MilkMania - Chat Bot com Python e Lhamma CP
 Projeto de chat bot desenvolvido em Python utilizando a biblioteca Lhamma CP. O bot foi construído em colaboração com a [LuisaAndrade28](https://github.com/LuisaAndrade28). Ele é capaz de realizar interações básicas com os usuários, respondendo a perguntas comuns e realizando tarefas simples.
+
+## 📂 Engenharia de Software 3
+### Design Patterns
+O objetivo foi explorar o uso de Design Patterns para soluções de software eficientes. Os padrões abordados incluem: 
+
+| Padrão      | Descrição                                  |
+|-------------|--------------------------------------------|
+| 🧠 Strategy | Encapsula algoritmos para troca dinâmica   |
+| 👀 Observer | Comunicação entre objetos dependentes      |
+| 🌳 Composite| Composição de objetos em estruturas hierárquicas |
+| 🔒 Singleton| Garantia de instância única                |
+| 🏠 Facade   | Interface simplificada para sistemas complexos |
+| 🎛 MVC      | Combina Strategy, Observer e Composite     |
 
 
 <p align="center"> 💌 mluizaguedes </p>
