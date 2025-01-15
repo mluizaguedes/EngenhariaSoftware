@@ -1,6 +1,6 @@
 ## Composite
 ### Diagrama UML
-![image](https://github.com/user-attachments/assets/84cee267-c183-42cf-a4ed-03e916dfc5ec)
+![image](https://github.com/user-attachments/assets/c359ec7e-8822-47ff-b8d5-a7224b05db46)
 
 ### **Compilar os Arquivos**.
 #### No terminal, navegue até o diretório onde os arquivos estão salvos:
