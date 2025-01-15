@@ -1,7 +1,7 @@
 ## OBSERVER
 
 #### Diagrama UML
-![image](https://github.com/user-attachments/assets/a336c960-7054-47fc-8669-11b098a022ba)
+![image](https://github.com/user-attachments/assets/b98e0804-f41e-455b-9b67-504478700f37)
 
 ### Compile e Rode o Código
 
