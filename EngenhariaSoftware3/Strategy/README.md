@@ -1,4 +1,6 @@
-## STRATEGY
+## STRATEGY 🧠
+Permite trocar o "jeito de fazer algo" sem mudar quem está fazendo. 
+
 #### Diagrama UML
 ![image](https://github.com/user-attachments/assets/f2237703-c895-4047-a2eb-10219310214d)
 
