@@ -1,4 +1,5 @@
-## OBSERVER
+## OBSERVER 👀
+Cria uma relação onde, quando algo muda, os "observadores" são avisados. Exemplo: se um pedido saiu para a entrega, o cliente recebe uma ntificação.
 
 #### Diagrama UML
 ![image](https://github.com/user-attachments/assets/b98e0804-f41e-455b-9b67-504478700f37)
