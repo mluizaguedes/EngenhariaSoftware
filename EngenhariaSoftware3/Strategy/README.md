@@ -1,6 +1,6 @@
 ## STRATEGY
 #### Diagrama UML
-![image](https://github.com/user-attachments/assets/34bda761-f763-4625-8c2a-c993363eb2ae)
+![image](https://github.com/user-attachments/assets/f2237703-c895-4047-a2eb-10219310214d)
 
 ### Como Executar o Projeto
 
