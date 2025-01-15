@@ -1,4 +1,6 @@
-## Singleton
+## Singleton 🔒
+Garante que só exista uma instância de algo no sistema.
+
 ### Diagrama UML
 ![image](https://github.com/user-attachments/assets/a23cd338-4e06-4919-8dba-1b6688d3d9ec)
 
